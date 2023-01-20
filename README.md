@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iteoluwakiisi Adewole</h1>
-<h3 align="center">I transitioned to tech from psychology.</h3>
-
+<h3 align="center">|| Software Engineer || .NET Engineer || ASP.NET || Psychologist ||</h3>
+<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4aMYwFc04SJYJPfj4t1VZLo8MxgypowpvwA&usqp=CAU"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adekiisi&label=Profile%20views&color=0e75b6&style=flat" alt="adekiisi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adekiisi" alt="adekiisi" /></a> </p>
